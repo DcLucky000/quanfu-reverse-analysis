@@ -17,3 +17,7 @@
 ## License
 
 个人学习与作品集参考。商业使用请自行确认版权边界。
+
+## 《死亡观察员》
+
+见 [siwang-guanchayuan/](siwang-guanchayuan/)：AIGC老梁 / LibTV 署名横屏短片拆解。
